@@ -1,7 +1,3 @@
-
-.reacttable{
-  text-align: -webkit-center;
-}
 .headerDiv{
 margin: 10px
 }
@@ -13,5 +9,4 @@ text-align: center !important ;
 
 .logout{
   float: right !important;
-  display: inline
 }
