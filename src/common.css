@@ -1,0 +1,17 @@
+
+.reacttable{
+  text-align: -webkit-center;
+}
+.headerDiv{
+margin: 10px
+}
+.header{
+text-align: center !important ;
+ color:#214B7D !important;
+ display: inline;
+}
+
+.logout{
+  float: right !important;
+  display: inline
+}
